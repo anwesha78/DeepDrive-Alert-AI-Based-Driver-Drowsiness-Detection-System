@@ -1,0 +1,4 @@
+time_s,ground_truth,outcome
+30.56,CLOSED,TP
+57.44,CLOSED,FN
+60.05,CLOSED,TP

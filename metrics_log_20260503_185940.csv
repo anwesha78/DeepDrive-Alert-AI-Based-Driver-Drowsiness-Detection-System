@@ -1,0 +1,3 @@
+time_s,ground_truth,outcome
+35.45,OPEN,TN
+38.25,CLOSED,TP
